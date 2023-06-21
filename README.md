@@ -2,10 +2,10 @@
 
 ### <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on slack clone
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate on projects related to full stack
-- 💬 Ask me about Node js, React js, Redux, Mongo db
+- 🔭 I’m currently working on Building Content.
+- 🌱 I’m currently learning new Tools which help in building Stuff.
+- 👯 I’m looking to collaborate on projects if anyone working on some interesting projects.
+- 💬 Ask me about HTML, CSS, JavaScript, React js, MySQL
 - 📫 How to reach me: **harshjoshi377@gmail.com**
 - 😄 Pronouns: Harsh
 
