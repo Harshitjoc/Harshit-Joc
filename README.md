@@ -22,13 +22,13 @@
 </div>
 
 <div>&nbsp;
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Harshitjoc&show_icons=true&theme=dark" alt="Harshit" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitjoc&layout=compact&theme=dark" alt="Harshit" />
-</p>
+</p> -->
 &nbsp;
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitjoc&theme=dark" alt="Harshit" />
