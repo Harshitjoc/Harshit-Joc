@@ -3,7 +3,7 @@
 ### <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 I’m currently working on Building Content.
-- 🌱 I’m currently learning new Tools which help in building Stuff.
+- 🌱 I’m currently learning new Tools that help in building Stuff.
 - 👯 I’m looking to collaborate on projects if anyone working on some interesting projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React js, MySQL
 - 📫 How to reach me: **harshjoshi377@gmail.com**
